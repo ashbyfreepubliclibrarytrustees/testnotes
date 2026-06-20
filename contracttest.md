@@ -3,7 +3,7 @@
 ## Responsibilities
 
 - Run the library
-- Talk to patrons
+- Talk to users
 
 ## Other stuff
 
